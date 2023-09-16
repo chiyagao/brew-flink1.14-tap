@@ -1,4 +1,4 @@
-class ApacheFlink < Formula
+class ApacheFlinkAT114 < Formula
   desc "Scalable batch and stream data processing"
   homepage "https://flink.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=flink/flink-1.14.3/flink-1.14.3-bin-scala_2.12.tgz"
